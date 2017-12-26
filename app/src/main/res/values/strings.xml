@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HyperWorks</string>
+    <string name="check_object">check object</string>
+    <string name="object_name">object name</string>
+</resources>

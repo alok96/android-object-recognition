@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#7d878b</color>
+    <color name="colorPrimaryDark">#7d878b</color>
+    <color name="notice_promo_textcolor">#f38383</color>
+    <color name="feedback_input_text">#4Dffffff</color>
+    <color name="symbol_text_color_selected">#e2e2e3</color>
+</resources>
